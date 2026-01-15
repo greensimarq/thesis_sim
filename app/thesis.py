@@ -736,7 +736,7 @@ dot_scale = FACADE_DOT_SIZE / BASE_DOT_PX
 st.markdown(f"""
 <style>
 /* ===== Global compact layout ===== */
-.block-container {{ padding-top: 0.6rem; padding-bottom: 0.6rem; }}
+.block-container {{ padding-top: 2.0rem; padding-bottom: 0.6rem; }}
 div[data-testid="stVerticalBlock"] > div {{ gap: 0.6rem; }}
 h2 {{ margin-top: 0.2rem; margin-bottom: 0.2rem; }}
 h3 {{ margin-top: 0.2rem; margin-bottom: 0.2rem; font-size: 1.05rem; }}

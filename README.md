@@ -1,7 +1,7 @@
 THESIS\_SIM — Streamlit academic app (thesis\_sim)
 
 =================================================
-
+🔗 Live app: https://thesis-sim.streamlit.app
 
 
 Overview
@@ -116,10 +116,11 @@ Citation (suggested)
 
 --------------------
 
-Oliveira, A. (2026). THESIS\_SIM — Thermal causes and energy impacts of occupants adaptive responses in glass curtain-wall
+Oliveira, A. (2026). THESIS\_SIM — Thermal causes and energy impacts of occupants adaptive responses in glass curtain-wall office buildings in the tropics. Doctoral thesis (PPGAU/UFRN - Brazil). (Paper link / DOI to be added.)
 
-office buildings in the tropics. Doctoral thesis (PPGAU/UFRN - Brazil). (Paper link / DOI to be added.)
-
+## Citation (Streamlit tool)
+Oliveira, A. (2026). THESIS_SIM — Streamlit web app for thermal comfort and energy analysis.
+Available at: https://thesis-sim.streamlit.app
 
 
 Acknowledgement
